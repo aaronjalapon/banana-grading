@@ -1,0 +1,13 @@
+attribute,class,Baseline_acc,Baseline_correct,Baseline_total,Optimized_acc,Optimized_correct,Optimized_total,Single+TTA_acc,Single+TTA_correct,Single+TTA_total,Ens+TTA_acc,Ens+TTA_correct,Ens+TTA_total
+maturity,Green,0.9524,20,21,0.8095,17,21,0.7619,16,21,0.8571,18,21
+maturity,Overripe,0.7778,7,9,0.7778,7,9,0.7778,7,9,0.7778,7,9
+maturity,Turning Yellow,0.6250,10,16,0.8125,13,16,0.7500,12,16,0.8125,13,16
+maturity,Yellow,0.4545,5,11,0.7273,8,11,0.8182,9,11,0.6364,7,11
+quality,Class 1,0.8571,12,14,0.8571,12,14,0.7857,11,14,0.5714,8,14
+quality,Class 2,0.8421,16,19,0.8421,16,19,0.8421,16,19,0.9474,18,19
+quality,Class 3,1.0000,27,27,1.0000,27,27,1.0000,27,27,1.0000,27,27
+size,Large,0.7143,5,7,0.4286,3,7,1.0000,7,7,0.8571,6,7
+size,Medium,1.0000,4,4,0.7500,3,4,0.5000,2,4,0.7500,3,4
+size,Small,1.0000,4,4,1.0000,4,4,1.0000,4,4,1.0000,4,4
+view,back,0.9615,25,26,0.9231,24,26,0.9615,25,26,0.9615,25,26
+view,front,1.0000,20,20,1.0000,20,20,1.0000,20,20,1.0000,20,20

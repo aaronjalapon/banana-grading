@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+dataset/
+saved_models/
+*.pth
+*.pt
+*.pkl
